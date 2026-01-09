@@ -33,7 +33,7 @@ export const photos: Photo[] = [
   {
     id: 6,
     title: "Paisagem Desértica",
-    url: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop"
+    url: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=500&h=500&fit=crop"
   },
   {
     id: 7,
@@ -48,7 +48,7 @@ export const photos: Photo[] = [
   {
     id: 9,
     title: "Vale Verdejante",
-    url: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop"
+    url: "https://images.unsplash.com/photo-1469022563149-aa64dbd37dae?w=500&h=500&fit=crop"
   },
   {
     id: 10,
@@ -58,11 +58,11 @@ export const photos: Photo[] = [
   {
     id: 11,
     title: "Floresta Densa",
-    url: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop"
+    url: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&h=500&fit=crop"
   },
   {
     id: 12,
     title: "Aurora Boreal",
-    url: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop"
+    url: "https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?w=500&h=500&fit=crop"
   }
 ]
