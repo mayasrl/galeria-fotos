@@ -112,3 +112,10 @@ A aplicação é totalmente responsiva:
 ## Licença
 
 MIT
+
+---
+
+<p align="center">
+  Desenvolvido com 💛 por <strong>@mayasrl</strong>.
+</p>
+
